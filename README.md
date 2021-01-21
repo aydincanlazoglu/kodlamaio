@@ -1,0 +1,2 @@
+# kodlamaio
+Tüm Öğrendiğim Kodlar 
